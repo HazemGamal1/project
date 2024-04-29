@@ -1,0 +1,149 @@
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\bin\Debug\net6.0-windows\shopManager.exe
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\bin\Debug\net6.0-windows\shopManager.deps.json
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\bin\Debug\net6.0-windows\shopManager.runtimeconfig.json
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\bin\Debug\net6.0-windows\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\bin\Debug\net6.0-windows\shopManager.pdb
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.AssemblyReference.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Form1.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.GenerateResource.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfoInputs.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfo.cs
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.CoreCompileInputs.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\refint\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.pdb
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.genruntimeconfig.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\ref\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shopproject\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Properties.Resources.resources
+C:\Users\modys\Desktop\shopManager\bin\Debug\net6.0-windows\shopManager.exe
+C:\Users\modys\Desktop\shopManager\bin\Debug\net6.0-windows\shopManager.deps.json
+C:\Users\modys\Desktop\shopManager\bin\Debug\net6.0-windows\shopManager.runtimeconfig.json
+C:\Users\modys\Desktop\shopManager\bin\Debug\net6.0-windows\shopManager.dll
+C:\Users\modys\Desktop\shopManager\bin\Debug\net6.0-windows\shopManager.pdb
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.Properties.Resources.resources
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.csproj.GenerateResource.cache
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.AssemblyInfoInputs.cache
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.AssemblyInfo.cs
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.csproj.CoreCompileInputs.cache
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.dll
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\refint\shopManager.dll
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.pdb
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.genruntimeconfig.cache
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\ref\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\bin\Debug\net6.0-windows\shopManager.exe
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\bin\Debug\net6.0-windows\shopManager.deps.json
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\bin\Debug\net6.0-windows\shopManager.runtimeconfig.json
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\bin\Debug\net6.0-windows\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\bin\Debug\net6.0-windows\shopManager.pdb
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Form1.resources
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.LoginForm.resources
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Properties.Resources.resources
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.GenerateResource.cache
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfoInputs.cache
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfo.cs
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.CoreCompileInputs.cache
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\refint\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.pdb
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\shopManager.genruntimeconfig.cache
+C:\Users\7dedd\OneDrive\Desktop\shop-manager-project\obj\Debug\net6.0-windows\ref\shopManager.dll
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.LoginForm.resources
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.InventoryForm.resources
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.AddProductForm.resources
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\bin\Debug\net6.0-windows\shopManager.exe
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\bin\Debug\net6.0-windows\shopManager.deps.json
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\bin\Debug\net6.0-windows\shopManager.runtimeconfig.json
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\bin\Debug\net6.0-windows\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\bin\Debug\net6.0-windows\shopManager.pdb
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AddProductForm.resources
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.InventoryForm.resources
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.LoginForm.resources
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Properties.Resources.resources
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.GenerateResource.cache
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfoInputs.cache
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfo.cs
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.CoreCompileInputs.cache
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\refint\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.pdb
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.genruntimeconfig.cache
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\ref\shopManager.dll
+C:\Users\7dedd\OneDrive\Desktop\lastupdate\shop-manager-project\obj\Debug\net6.0-windows\shopManager.HomepageForm.resources
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.HomepageForm.resources
+H:\shop-manager-project\bin\Debug\net6.0-windows\shopManager.exe
+H:\shop-manager-project\bin\Debug\net6.0-windows\shopManager.deps.json
+H:\shop-manager-project\bin\Debug\net6.0-windows\shopManager.runtimeconfig.json
+H:\shop-manager-project\bin\Debug\net6.0-windows\shopManager.dll
+H:\shop-manager-project\bin\Debug\net6.0-windows\shopManager.pdb
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AddProductForm.resources
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.HomepageForm.resources
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.InventoryForm.resources
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.LoginForm.resources
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Properties.Resources.resources
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.SellProductForm.resources
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.GenerateResource.cache
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.GeneratedMSBuildEditorConfig.editorconfig
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfoInputs.cache
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfo.cs
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.CoreCompileInputs.cache
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.dll
+H:\shop-manager-project\obj\Debug\net6.0-windows\refint\shopManager.dll
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.pdb
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.genruntimeconfig.cache
+H:\shop-manager-project\obj\Debug\net6.0-windows\ref\shopManager.dll
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.SellProductForm.resources
+H:\shop-manager-project\obj\Debug\net6.0-windows\shopManager.StockForm.resources
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.StockForm.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\bin\Debug\net6.0-windows\shopManager.exe
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\bin\Debug\net6.0-windows\shopManager.deps.json
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\bin\Debug\net6.0-windows\shopManager.runtimeconfig.json
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\bin\Debug\net6.0-windows\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\bin\Debug\net6.0-windows\shopManager.pdb
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.AssemblyReference.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AddProductForm.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.HomepageForm.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.InventoryForm.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.LoginForm.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Properties.Resources.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.SellProductForm.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.StockForm.resources
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.GenerateResource.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfoInputs.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfo.cs
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.CoreCompileInputs.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\refint\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.pdb
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.genruntimeconfig.cache
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\ref\shopManager.dll
+C:\Users\Original Nassar\OneDrive\Desktop\shoppppp\shop-manager-project\obj\Debug\net6.0-windows\shopManager.checkForm.resources
+C:\Users\modys\Desktop\shopManager\obj\Debug\net6.0-windows\shopManager.checkForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\bin\Debug\net6.0-windows\shopManager.exe
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\bin\Debug\net6.0-windows\shopManager.deps.json
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\bin\Debug\net6.0-windows\shopManager.runtimeconfig.json
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\bin\Debug\net6.0-windows\shopManager.dll
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\bin\Debug\net6.0-windows\shopManager.pdb
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.AssemblyReference.cache
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AddProductForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.CheckForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.HomepageForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.InventoryForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.LoginForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.Properties.Resources.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.SellProductForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.StockForm.resources
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.GenerateResource.cache
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfoInputs.cache
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.AssemblyInfo.cs
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.csproj.CoreCompileInputs.cache
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.dll
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\refint\shopManager.dll
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.pdb
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\shopManager.genruntimeconfig.cache
+C:\Users\Original Nassar\Source\Repos\shop-manager-project\obj\Debug\net6.0-windows\ref\shopManager.dll
